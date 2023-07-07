@@ -1,3 +1,5 @@
+package Automation;
+
 public class HelloTest {
 
     public static void main(String[] args) {
@@ -8,3 +10,5 @@ public class HelloTest {
 
     }
 }
+
+
